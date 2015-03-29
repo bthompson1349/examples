@@ -1,0 +1,28 @@
+html{
+	overflow: hidden;
+}
+
+.container{
+	margin: 0 auto;
+    margin-top: 20%;
+    width: 50%;
+    text-align: center;
+    font-size: 36px;
+}
+.ard{
+	margin:20px auto;
+}
+
+p{
+	text-align: center;
+	font-size: 16px;
+	font-family: "SourceSansProRegular";
+}
+
+.square{
+	margin: 50px auto;
+	width: 200px;
+	height: 200px;
+	background: #064f6d;
+}
+
