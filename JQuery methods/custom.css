@@ -1,0 +1,26 @@
+.container{
+	margin: 0 auto;
+    margin-top: 20%;
+    width: 50%;
+    text-align: center;
+    font-size: 36px;
+}
+.ard{
+	margin:20px auto;
+	clear:both;
+}
+
+.container>p{
+	text-align: center;
+	font-size: 16px;
+	padding: 10px;
+	border-radius: 4px;
+	font-family: "SourceSansProLight";
+	border: 1px solid #0099e7;
+	cursor: pointer;
+}
+
+.container>p:hover{
+	background: #0099e7;
+	color:white;
+}

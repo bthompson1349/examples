@@ -1,2 +1,2 @@
 # examples
-Example usage of Involt framework(v1.0.4).
+Example usage of Involt framework. Older examples can be prepared in older versions.
